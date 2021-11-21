@@ -1,0 +1,25 @@
+{
+  "name": "fmit",
+  "version": "1.0.0",
+  "description": "a module to managing file and folder with terminal commands",
+  "main": "fmit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightcode-dev/fmit.git"
+  },
+  "keywords": [
+    "file",
+    "manging",
+    "terminal",
+    "command"
+  ],
+  "author": "nightcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightcode-dev/fmit/issues"
+  },
+  "homepage": "https://github.com/nightcode-dev/fmit#readme"
+}
