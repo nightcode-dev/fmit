@@ -1,6 +1,6 @@
 {
   "name": "fmit",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a module to managing file and folder with terminal commands",
   "main": "fmit.js",
   "scripts": {
